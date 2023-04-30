@@ -1,1 +1,0 @@
-# CRM-for-Retail-Management
